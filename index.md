@@ -13,7 +13,7 @@ startdate: 2019-02-11
 enddate: 2019-02-12
 instructor: ["TBA"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["haoye#@ufl.edu"]
+email: ["haoye@ufl.edu"]
 collaborative_notes: https://pad.carpentries.org/2019-02-11-ufii
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
