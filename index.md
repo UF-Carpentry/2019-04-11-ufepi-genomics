@@ -50,7 +50,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  We expect to open registration for this workshop on Monday, January 25, 2019.
+  We expect to open registration for this workshop on Monday, January 28, 2019.
   <!-- <a href="">Register Now</a> -->
   <!-- Registration is now full -->
 </strong></p>
