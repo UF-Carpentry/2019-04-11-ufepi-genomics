@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-02-11
 enddate: 2019-02-12
 instructor: ["Brian Stucky", "Ellen Bledsoe", "Joe Andreoli", "Sasha Lavrentovich"]
-helper: ["Philip Chase", "Christine Swanson", "Falcon Restrepo", "Mariandreina Kostantinov", "Nitya Singh", "Eduardo Bongiolo"]
+helper: ["Philip Chase", "Falcon Restrepo", "Eduardo Bongiolo", "Elise Morrison"]
 email: ["haoye@ufl.edu"]
 collaborative_notes: https://pad.carpentries.org/2019-02-11-ufii
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -50,8 +50,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  We expect to open registration for this workshop on Monday, January 28, 2019.
-  <!-- <a href="">Register Now</a> -->
+  <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071506">Register Now</a>
   <!-- Registration is now full -->
 </strong></p>
 
