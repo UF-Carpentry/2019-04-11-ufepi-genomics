@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-02-11
 enddate: 2019-02-12
 instructor: ["Brian Stucky", "Ellen Bledsoe", "Joe Andreoli", "Sasha Lavrentovich"]
-helper: ["Philip Chase", "Falcon Restrepo", "Eduardo Bongiolo", "Elise Morrison"]
+helper: ["Philip Chase", "Falcon Restrepo", "Eduardo Bongiolo", "Elise Morrison", "Mariandreina Kostantinov"]
 email: ["haoye@ufl.edu"]
 collaborative_notes: https://pad.carpentries.org/2019-02-11-ufii
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -50,8 +50,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071506">Register Now</a>
-  <!-- Registration is now full -->
+  <!-- <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071506">Register Now</a> -->
+  Registration is now full
 </strong></p>
 
 <h2 id="general">General Information</h2>
@@ -235,7 +235,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endcomment %}
 {% if page.collaborative_notes %}
 <p id="collaborative_notes">
+<strong>
   We will use this <a href="{{page.collaborative_notes}}">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+  </strong>
 </p>
 {% endif %}
 
