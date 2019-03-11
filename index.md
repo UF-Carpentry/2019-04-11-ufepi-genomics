@@ -1,20 +1,20 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "swc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
+carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").
                       # Be sure to update the Carpentry type in _config.yml as well.
-venue: "UF Informatics Institute"
-address: "UFII Lecture Room, Computer Sciences/Engineering Building (0042), Gainesville, FL"
+venue: "UF Emerging Pathogens Institute"
+address: "UF EPI, room 150, Gainesville, FL"
 country: "us"
 language: "en"
-latlng: "29.648248,-82.344031"
-humandate: "Feb 11-12, 2019"
+latlng: "29.637414, -82.351971"
+humandate: "Apr 11-12, 2019"
 humantime: "9:00 am - 4:30 pm"
-startdate: 2019-02-11
-enddate: 2019-02-12
-instructor: ["Brian Stucky", "Ellen Bledsoe", "Joe Andreoli", "Sasha Lavrentovich"]
-helper: ["Philip Chase", "Falcon Restrepo", "Eduardo Bongiolo", "Elise Morrison", "Mariandreina Kostantinov"]
-email: ["haoye@ufl.edu"]
-collaborative_notes: https://pad.carpentries.org/2019-02-11-ufii
+startdate: 2019-04-11
+enddate: 2019-04-12
+instructor: ["Carla Mavian", "Taylor Paisie", "TBD", "TBD"]
+helper: ["Geraldine Klarenberg", "TBD", "TBD", "TBD"]
+email: ["cmavian@ufl.edu", tpaisie@ufl.edu]
+collaborative_notes: 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -50,8 +50,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </p>
 
 <p><strong>
-  <!-- <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071506">Register Now</a> -->
-  Registration is now full
+  We expect to open registration for this workshop on Wednesday, 3/18/2019.
+  <!-- <a href="">Register Now</a> -->
+  <!-- Registration is now full -->
 </strong></p>
 
 <h2 id="general">General Information</h2>
