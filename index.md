@@ -11,9 +11,9 @@ humandate: "Apr 11-12, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-04-11
 enddate: 2019-04-12
-instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "TBD"]
+instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "Oleksandr Moskalenko"]
 helper: ["Geraldine Klarenberg", "Stefano Nembrini", "TBD", "TBD"]
-email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu"]
+email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu", "om@rc.ufl.edu"]
 collaborative_notes: 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   and registration is required. A fee of $46.00 will
   be charged and lunch will be provided both days.
   Please plan on attending the entire time for both days.
-  You can register in UF's conference system here:
+  You can register in UF's conference system here: <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071955">Intro to Genomics Registration</a>
 </p>
 
 <p><strong>
