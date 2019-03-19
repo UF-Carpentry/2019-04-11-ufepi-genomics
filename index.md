@@ -11,9 +11,9 @@ humandate: "Apr 11-12, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-04-11
 enddate: 2019-04-12
-instructor: ["Carla Mavian", "Taylor Paisie", "TBD", "TBD"]
-helper: ["Geraldine Klarenberg", "TBD", "TBD", "TBD"]
-email: ["cmavian@ufl.edu", tpaisie@ufl.edu]
+instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "TBD"]
+helper: ["Geraldine Klarenberg", "Stefano Nembrini", "TBD", "TBD"]
+email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu"]
 collaborative_notes: 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
