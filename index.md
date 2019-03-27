@@ -12,7 +12,7 @@ humantime: "9:00 am - 4:30 pm"
 startdate: 2019-04-11
 enddate: 2019-04-12
 instructor: ["Carla Mavian", "Taylor Paisie", "Massimiliano Tagliamonte", "Oleksandr Moskalenko"]
-helper: ["Geraldine Klarenberg", "Stefano Nembrini", "Henry Senyondo", "Dan Stribiling"]
+helper: ["Geraldine Klarenberg", "Stefano Nembrini", "Henry Senyondo", "Miao Sun", "Caroline Storer", "Ben Toh", "Dan Stribiling"]
 email: ["cmavian@ufl.edu", "tpaisie@ufl.edu", "mstagliamonte@ufl.edu", "om@rc.ufl.edu"]
 collaborative_notes: 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
