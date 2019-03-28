@@ -49,11 +49,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   You can register in UF's conference system here: <a href="http://reg.conferences.dce.ufl.edu/SSP/1400071955">Intro to Genomics Registration</a>
 </p>
 
-<p><strong>
-  We expect to open registration for this workshop on Thursday, 3/21/2019.
-  <!-- <a href="">Register Now</a> -->
-  <!-- Registration is now full -->
-</strong></p>
 
 <h2 id="general">General Information</h2>
 
