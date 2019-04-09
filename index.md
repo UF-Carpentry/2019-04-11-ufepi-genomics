@@ -180,7 +180,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   {% endif %}
   for more information.
 </p>
-
 <hr/>
 
 {% comment %}
@@ -224,7 +223,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   If you want to use an Etherpad, go to
 
-      http://pad.software-carpentry.org/YYYY-MM-DD-site
+      https://pad.carpentries.org/2019-04-11-introtogenomics-uf
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
@@ -442,5 +441,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
         <a href="https://www.sublimetext.com/">Sublime Text</a>.
       </p>
     </div>
+
   </div>
 </div> {% comment %} End of 'editor' section. {% endcomment %}
