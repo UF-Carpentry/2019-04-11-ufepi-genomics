@@ -223,7 +223,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
   If you want to use an Etherpad, go to
 
-      https://pad.carpentries.org/2019-04-11-introtogenomics-uf
+      https://pad.carpentries.org/2019-04-11-ufepi-genomics
 
   where 'YYYY-MM-DD-site' is the identifier for your workshop,
   e.g., '2015-06-10-esu'.
